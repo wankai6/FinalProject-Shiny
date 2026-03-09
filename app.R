@@ -1,8 +1,9 @@
 # =========================
 # Shiny Final Project (Safe Upgrade)
 # Based on class demo: Colorado species occurrences
+# Script developed by Kai Wan
+# Originally Created: 2025 DEC 1
 # =========================
-
 
 library(shiny)
 library(leaflet)

@@ -1,7 +1,8 @@
 
 # Colorado Species Occurrence Explorer (Shiny)
+# Script developed by Kai Wan
+# Originally Created: 2025 DEC 1
 
-This is my final project Shiny app for the course.  
 The app allows users to interactively filter species occurrence records
 in Colorado by:
 

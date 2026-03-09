@@ -1,10 +1,12 @@
-
 # Colorado Species Occurrence Explorer (Shiny)
-# Script developed by Kai Wan
-# Originally Created: 2025 DEC 1
 
-The app allows users to interactively filter species occurrence records
-in Colorado by:
+Script developed by Kai Wan
+
+Originally Created: 2025 DEC 1 
+
+Interactive R Shiny dashboard for exploring geospatial wildlife occurrence data in Colorado.
+
+The app allows users to interactively filter species occurrence records in Colorado by:
 
 -   Species
 -   Observation type
@@ -12,8 +14,7 @@ in Colorado by:
 -   Year range
 -   Month range
 
-The filtered points are displayed on an interactive Leaflet map along
-with the Rocky Mountain National Park (ROMO) boundary polygon.
+The filtered points are displayed on an interactive Leaflet map along with the Rocky Mountain National Park (ROMO) boundary polygon.
 
 ## How to run
 
